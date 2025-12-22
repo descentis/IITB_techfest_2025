@@ -1,0 +1,51 @@
+# requirements.txt
+# Content Idea Generator & Planner Agent - Python Dependencies
+
+# Core LLM & Agent Framework
+langchain
+langchain-community
+langgraph
+langchain-core
+
+# Local LLM Support
+ollama
+
+# Data & Validation
+pydantic
+pydantic-settings
+
+# Database & Storage
+sqlalchemy
+
+# Web Framework (for API)
+flask
+fastapi
+uvicorn
+
+# Data Processing
+pandas
+numpy
+
+# Utilities
+python-dotenv
+requests
+aiohttp
+
+# Testing
+pytest
+pytest-asyncio
+
+# Logging & Monitoring
+python-json-logger
+
+# Development
+black
+pylint
+mypy
+
+# Visualization (optional)
+matplotlib
+plotly
+
+# Document Processing (optional)
+python-markdown
